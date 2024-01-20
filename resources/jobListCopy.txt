@@ -1,0 +1,40 @@
+van Mourik Broekmanweg; 6; 2628XE; Delft
+Repair a broken doorknob at office 3W.560.
+
+5-6-7
+a; 4; g; t
+eeeeeeeeeeeeeeeeeeeeeeeeee
+ScaffoldingTower, t; Torch, wwww;
+5-6-7
+a; 4; g; t
+eeeeeeeeeeeeeeeeeeeeeeeeee
+ScaffoldingTower, t; Torch, wwww;
+23-10-2020
+a; 4; g; t
+eeeeeeeeeeeeeeeeeeeeeeeeee
+ScaffoldingTower, t; Torch, wwww;
+23-9-2021
+a; 4; g; t
+eeeeeeeeeeeeeeeeeeeeeeeeee
+ScaffoldingTower, t; Torch, wwww;
+22-10-2021
+Cornelis Drebbelweg; 5; 2628CM; Delft
+Repair the eastern stairway to the 1st floor.
+ScaffoldingTower, At least 5 metres tall;
+23-10-2021
+Mekelweg; 4; 2628CD; Delft
+Construct a new bathroom on the 8th floor.
+JackHammer, A hardened chisel for reinforced floors; ConcreteMixer, None;
+24-10-2021
+a; 4; g; t
+eeeeeeeeeeeeeeeeeeeeeeeeee
+ScaffoldingTower, t; Torch, wwww;
+24-10-2021
+a; 4; g; t
+eeeeeeeeeeeeeeeeeeeeeeeeee
+ScaffoldingTower, t; Torch, wwww;
+23-11-2021
+a; 4; g; t
+eeeeeeeeeeeeeeeeeeeeeeeeee
+ScaffoldingTower, t; Torch, wwww;
+23-10-2022
